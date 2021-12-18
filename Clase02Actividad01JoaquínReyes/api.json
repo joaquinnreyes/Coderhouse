@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1200,
+      "id": 1,
+      "title": "Harina",
+      "thumbnailUrl": "https://jumbo.vtexassets.com/arquivos/ids/453094/Harina-sin-polvos-de-hornear-1-kg.jpg?v=637662989930970000"
+    },
+    {
+      "precio": 1000,
+      "id": 2,
+      "title": "Leche",
+      "thumbnailUrl": "https://www.icbfs.cl/wp-content/uploads/150000005.jpg"
+    },
+    {
+      "precio": 2500,
+      "id": 3,
+      "title": "Huevos",
+      "thumbnailUrl": "https://labodegadeltioani.com/wp-content/uploads/2021/05/huevos-organicos-pachacamac.jpg"
+    },
+    {
+      "precio": 700,
+      "id": 4,
+      "title": "Azucar",
+      "thumbnailUrl": "https://jumbo.vtexassets.com/arquivos/ids/395837/Azucar-blanca-granulada-1-kg.jpg?v=637469287944500000"
+    },
+    {
+      "precio": 1500,
+      "id": 5,
+      "title": "Aceite",
+      "thumbnailUrl": "https://jumbo.vtexassets.com/arquivos/ids/398096/Aceite-de-Maravilla-1-L.jpg?v=637469311120300000"
+    },
+    {
+      "precio": 1200,
+      "id": 6,
+      "title": "Arroz",
+      "thumbnailUrl": "https://cdn.dimerc.cl/media/catalog/product/cache/1/thumbnail/x600/040ec09b1e35df139433887a97daa66f/6/3/63f6c9e6faded83ce1c30f44f64c4842.jpg"
+    }
+  ]

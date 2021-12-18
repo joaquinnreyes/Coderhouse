@@ -1,0 +1,11 @@
+alert("Bienvenido")
+let nombre=prompt("¿Cuál es su nombre?")
+alert("¡Hola "+nombre+"!")
+let numero1=parseFloat(prompt("Ingrese el primer número a sumar"))
+let numero2=parseFloat(prompt("Ingrese el segundo número a sumar"))
+let suma=numero1+numero2
+alert("La suma de los dos número es: "+suma)
+mensaje=prompt("¿Cuál es su opinión del programa?")
+evaluacion=parseInt(prompt("¿Cual es su nota/evaluación? (1-7)"))
+alert("El mensaje: "+mensaje+", con la evaluación: "+ evaluacion+", "+"se ha enviado con éxito.")
+alert("Muchas gracias por usar nuestros servicios.")
